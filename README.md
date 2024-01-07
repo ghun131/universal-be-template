@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://gist.githubusercontent.com/ghun131/50211ec4ad85634cd2133bb6fd936b0b/raw/f99d97c29cd6cb24ce92b21cbd8d0e7ad699a803/universal_be_template.png" width="200" alt="Universal BE template logo" />
+ <img src="https://gist.githubusercontent.com/ghun131/50211ec4ad85634cd2133bb6fd936b0b/raw/6e2f52562804e910e535bde20d10aee557e69560/universal_be_template.png" width="200" alt="Universal BE template logo" />
 </p>
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
