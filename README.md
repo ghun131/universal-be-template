@@ -15,9 +15,10 @@
 
 ## Features
 
-- [ ] postgres
+- [x] fastify adapter
+- [x] postgres
 - [ ] authentication
-- [ ] typescript
+- [x] typescript
 - [ ] graphql
 - [ ] docker deploy
 
