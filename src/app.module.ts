@@ -16,7 +16,6 @@ import { HealthModule } from './health/health.module';
       password: process.env.PG_PASSWORD,
       database: process.env.PG_DB,
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
-      synchronize: true,
       logging: true,
     }),
     HealthModule,
