@@ -18,9 +18,9 @@
 - [x] fastify adapter
 - [x] postgres
 - [x] typescript
-- [ ] db migration
+- [x] db migration
 - [ ] authentication
-- [ ] users
+- [x] users
 - [ ] graphql
 - [ ] docker deploy
 
