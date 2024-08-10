@@ -12,7 +12,8 @@ const config = {
   password: process.env.PG_PASSWORD,
   database: process.env.PG_DB,
   entities: ['dist/**/*.entity{.ts,.js}'],
-  migrations: ['src/migrations/*.ts', 'dist/migrations/*{.ts,.js}'],
+  // migrations: ['src/migrations/*.ts', 'dist/migrations/*{.ts,.js}'],
+  migrations: ['dist/migrations/*{.ts,.js}'],
   cli: {
     migrationsDir: 'src/migrations',
   },
